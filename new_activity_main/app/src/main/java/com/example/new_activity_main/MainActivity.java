@@ -29,4 +29,8 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(getApplicationContext(), MenuActivity.class);
         startActivity(intent);
     }
+
+/*
+수정수정수정수정수정수정수정
+*/
 }
