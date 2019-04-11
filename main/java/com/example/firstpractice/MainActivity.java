@@ -29,4 +29,8 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(getApplicationContext(), MenuActivity.class);
         startActivity(intent);
     }
+
+    /*
+    modified_jiyeong
+     */
 }
